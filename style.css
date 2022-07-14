@@ -70,7 +70,7 @@ body {
   margin-right: 50px;
 }
 
-.plan-text h3 {
+.plan-text h2 {
   font-size: 16px;
   font-weight: 700;
 }
@@ -165,18 +165,7 @@ body {
     width: 280px;
   }
 
-  .plan img {
-    margin-right: 15px;
-  }
-
   .plan-text {
     margin-right: 45px;
-  }
-
-  .plan a {
-    color: hsl(245, 75%, 52%);
-    font-weight: 700;
-    margin-bottom: 100px;
-    outline: none;
   }
 }
